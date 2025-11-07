@@ -27,4 +27,7 @@
     </tr>
   </table>
 </div>
+<img src="https://raw.githubusercontent.com/JelantikAditya/JelantikAditya/output/snake.svg" alt="Snake animation" />
+
+###
 
