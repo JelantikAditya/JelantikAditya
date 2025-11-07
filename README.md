@@ -11,10 +11,20 @@
 <h3 align="center">
     Stats
 </h3>
-<div align="flex">
-    
-[![Jelantik's GitHub stats](https://github-readme-stats.vercel.app/api?username=JelantikAditya&show_icon=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api?username=JelantikAditya&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/anuraghazra/github-readme-stats">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelantikAditya&layout=donut&theme=tokyonight" alt="Top Languages" width="400"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
