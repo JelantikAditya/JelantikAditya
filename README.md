@@ -12,7 +12,7 @@
     Stats
 </h3>
 <div align="center">
-  <table border="0">
+  <table border="0" style="border-collapse: collapse;">
     <tr>
       <td>
         <a href="https://github.com/anuraghazra/github-readme-stats">
