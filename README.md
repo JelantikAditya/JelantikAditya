@@ -11,25 +11,6 @@
     <img src="https://skillicons.dev/icons?i=github,html,css,js,bootstrap,tailwind,php,cpp,go,python,java,laravel,&perline=6" />
   </a>
 </p>
-
-<h3 align="center">
-    Stats
-</h3>
-<div align="center">
-  <table border="0" style="border-collapse: collapse;">
-    <tr>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api?username=JelantikAditya&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="400"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JelantikAditya&layout=donut&theme=tokyonight" alt="Top Languages" width="400"/>
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 
